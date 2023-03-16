@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Baha</h1>
 <h3 align="center">Welcome to my Github Profile</h3>
 
-- 🔭 I’m currently working on **Data Structre and Algorithm**
+- 🔭 I’m currently working on **Kotlin to develop Mobil Android projects**
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **Unity, Resonsive Web Design and Jetpack Compose**
 
 - 📫 How to reach me **baha71434@gmail.com**
 
